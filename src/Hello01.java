@@ -1,10 +1,5 @@
-public class Hello01 {
 
-  public static void main(String[] args) {
-    System.out.println("Hello world");
-
-  }
-  public class Main01 {
+public class Main01 {
     // Написать метод, которым можно посчитать сумму двух, трех или четырех чисел
 
     // Перегруженный метод с двумя параметрами
